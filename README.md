@@ -1,1 +1,2 @@
-# PRP Hardware-Oriented Pattern Replacement Pruning for Deep
+## MDPI
+### PRP Hardware-Oriented Pattern Replacement Pruning for Deep
